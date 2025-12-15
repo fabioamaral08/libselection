@@ -1,2 +1,2 @@
 # libselection
-Code for "Projection-Based Sparse Model Selection-STLS Revisit:  Library Selection for System Identification" paper
+Code for " From STLS to Projection-based Dictionary Selection in Sparse Regression for System Identification" paper
